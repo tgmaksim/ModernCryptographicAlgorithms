@@ -1,6 +1,5 @@
 #include "mca.h"
 
-
 std::string MCA::encodeToHex(const std::string& text) {
 	std::string encoded;
 	CryptoPP::StringSource(

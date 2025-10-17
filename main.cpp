@@ -2,7 +2,6 @@
 #include <string>
 
 #include "mca.h"
-
 using namespace MCA;
 
 static std::string inputstr(std::string text) {
